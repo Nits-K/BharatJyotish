@@ -128,7 +128,7 @@ const kundali = () => {
               </div>
               <div className="w-2/3 px-4 ">
                 <h4 className="text-xl text-red-700 font-bold mb-2">Hast Rekha</h4>
-                <p className="text-lg text-red-500">Know About your Hand's Line</p>
+                <p className="text-lg text-red-500">Know About your Hands Line</p>
               </div>
             </a>
           </div>
