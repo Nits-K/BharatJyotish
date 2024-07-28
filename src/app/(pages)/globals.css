@@ -30,17 +30,6 @@ body {
   .text-balance {
     text-wrap: balance;
   }
-}@keyframes slide-up {
-  0% {
-    transform: translateY(100%);
-  }
-  120% {
-    transform: translateY(-100%);
-  }
-}
-
-.animate-slide-up {
-  animation: slide-up 5s linear infinite;
 }
 
 .marquee {
