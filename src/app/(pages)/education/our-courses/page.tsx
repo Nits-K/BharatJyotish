@@ -3,7 +3,7 @@ import React from "react";
 const Course = () => {
   return (
     <section className="flex flex-col items-center py-10 px-10 bg-gray-100" id="courses">
-      <h2 className="text-4xl text-orange-500 font-bold mb-8">Our Courses</h2>
+      <h2 className="text-4xl py-4 text-orange-500 font-bold mb-8">Our Courses</h2>
       <div className="w-full max-w-4xl">
         {/* <h2 className="text-3xl font-semibold mb-6">Jyotish Gyaan</h2> */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-16 ">
